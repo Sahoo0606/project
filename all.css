@@ -1,0 +1,56 @@
+body{
+    background-color: #E8CCC6;
+}
+h1{
+    color: #0f144f;
+    text-align: center;
+    text-transform: capitalize;
+}
+h5{
+    color: rgb(26, 73, 126);
+    margin-bottom: 10px;
+    margin-left: 38px;
+    text-align: center;
+
+}
+
+.mytable{
+border: 1px solid black;
+        color:#62926D;
+        text-align: center;
+        text-decoration:dotted;
+        font-size:40px;
+        text-transform: capitalize;
+        margin: auto;
+        
+}
+.mytable td{
+    border: 1px solid black;
+        color:#040713;
+        text-align: center;
+        text-decoration:dotted;
+        font-size:40px;
+        text-transform: capitalize;
+        margin: auto;
+}
+.mytable th{
+    border: 1px solid black;
+        color:rgb(66, 3, 3);
+        text-align: center;
+        text-decoration:dotted;
+        font-size:40px;
+        text-transform: capitalize;
+        margin: auto;
+}
+#one{
+    color: rgba(119, 8, 229, 0.493);
+    text-align: center;
+    font-size: larger;
+    text-transform: capitalize;
+    margin: auto;
+    text-decoration: solid;
+    font-size: 35px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    
+}
